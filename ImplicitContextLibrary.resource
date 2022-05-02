@@ -1,3 +1,5 @@
+# robocop: disable=ignored-data
+# vim: syntax=robot
 *** Settings ***
 Documentation  A simple robotframework resource for using implicit context in BDD tests.
 Library  Collections

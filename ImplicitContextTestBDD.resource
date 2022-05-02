@@ -1,4 +1,5 @@
-# robocop: disable=wrong-case-in-keyword-name
+# robocop: disable=wrong-case-in-keyword-name,ignored-data
+# vim: syntax=robot
 *** Settings ***
 Documentation  A simple BDD keyword library used to demonstrate implicit context in BDD tests.
 Resource  ImplicitContextLibrary.resource

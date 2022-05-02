@@ -1,3 +1,5 @@
+# robocop: disable=ignored-data
+# vim: syntax=robot
 *** Settings ***
 Documentation  A simple test keyword library used to demonstrate implicit context
 Resource  ImplicitContextTestApplication.resource

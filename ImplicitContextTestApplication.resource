@@ -1,3 +1,5 @@
+# robocop: disable=ignored-data
+# vim: syntax=robot
 *** Settings ***
 Documentation  A simple fake application library used to demonstrate implicit context in BDD tests.
 
